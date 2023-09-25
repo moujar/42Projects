@@ -10,6 +10,7 @@
 |[Ft_printf](subjects/ft_printf/ft_printf.pdf)|Unix|42 Starfleet|T1|C|:rooster:|
 |[Born2beRoot](subjects/born2beroot/Born2beRoot.pdf)|Unix|42 Starfleet|T1|C|:rooster:|
 |[pipex](subjects/pipex/pipex.pdf)|Unix|42 Starfleet|T1|C|:rooster:|
+|[Push_swap](subjects/push_swap/PushSwap.pdf)|Unix|42 Starfleet|T1|C|:rooster:|
 |[Fdf](subjects/Fdf/fdf.pdf)|Unix|42 Starfleet|T1|C|:rooster:|
 |[Philosophers](subjects/Philosophers/en.subject.pdf)|Unix|42 Starfleet|T1|C|:rooster:|
 |[Minishell](subjects/minishell/en.subject.pdf)|Unix|42 Starfleet|T1|C|:rooster:|
