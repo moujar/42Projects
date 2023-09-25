@@ -1,0 +1,12 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/amoujar/backup42/Philosophers'
+cc -Wall -Wextra -g   -c -o main.o main.c
+ 
+cc -Wall -Wextra -g   -c -o srcs/check_arg.o srcs/check_arg.c
+cc -Wall -Wextra -g   -c -o srcs/utiles.o srcs/utiles.c
+cc -Wall -Wextra -g   -c -o srcs/init.o srcs/init.c
+cc -Wall -Wextra -g   -c -o srcs/routine.o srcs/routine.c
+cc -Wall -Wextra -g   -c -o srcs/routine_utile.o srcs/routine_utile.c
+gcc main.c srcs/check_arg.c srcs/utiles.c srcs/init.c srcs/routine.c srcs/routine_utile.c  -Wall -Wextra -g -o philosopher -fsanitize=thread
+make: Leaving directory `/Users/amoujar/backup42/Philosophers'
+ 
